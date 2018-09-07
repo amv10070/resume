@@ -8,3 +8,5 @@
 [Stony Brook University](https://www.stonybrook.edu)
 
 [Northern Vermont University - Lyndon State College](http://lyndonstate.edu/about/northern-vermont-university/)
+
+## Research Interests
